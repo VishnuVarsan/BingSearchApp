@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  XML Sitemap – TechTips Hub
+  Bing Guideline 3 : List only canonical URLs, reflect current structure,
+                     include freshness signals (lastmod).
+  Guideline 21     : Keep the sitemap lean — only URLs that should be indexed.
+  Submit this file via Bing Webmaster Tools and notify Bing via IndexNow
+  whenever content is added, updated, or removed (Guideline 4).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- ── Core pages ─────────────────────────────── -->
+  <url>
+    <loc>https://www.techthipshub.example.com/</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/about.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/guides.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/contact.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/privacy.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+  <!-- ── Topic landing pages ────────────────────── -->
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/windows.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/macos.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/security.html</loc>
+    <lastmod>2025-05-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/networking.html</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/productivity.html</loc>
+    <lastmod>2025-05-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/topics/mobile.html</loc>
+    <lastmod>2025-05-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- ── Individual guides ──────────────────────── -->
+  <url>
+    <loc>https://www.techthipshub.example.com/guides/windows-11-speed-tips.html</loc>
+    <lastmod>2025-05-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.techthipshub.example.com/images/guide-windows-speed.jpg</image:loc>
+      <image:title>Windows 11 performance settings screen</image:title>
+      <image:caption>Screenshot of Windows 11 settings showing performance optimisation options</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/guides/home-network-security.html</loc>
+    <lastmod>2025-05-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.techthipshub.example.com/images/guide-network-security.jpg</image:loc>
+      <image:title>Home Wi-Fi router with security padlock overlay</image:title>
+      <image:caption>A home router secured with WPA3 and a strong password</image:caption>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.techthipshub.example.com/guides/best-productivity-apps-2025.html</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://www.techthipshub.example.com/images/guide-productivity.jpg</image:loc>
+      <image:title>Collage of productivity application screenshots</image:title>
+      <image:caption>Popular productivity apps reviewed for 2025</image:caption>
+    </image:image>
+  </url>
+
+</urlset>

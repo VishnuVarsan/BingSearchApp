@@ -1,0 +1,34 @@
+# robots.txt – TechTips Hub
+# https://www.techthipshub.example.com/robots.txt
+#
+# Bing Guideline 8  : Allow efficient crawling – Bingbot is explicitly allowed.
+# Bing Guideline 10 : robots.txt controls crawl access, not indexing.
+#                     Use <meta name="robots" content="noindex"> on pages that
+#                     should not appear in search, rather than blocking them here.
+
+# ── Allow all well-behaved crawlers ──────────────────
+User-agent: *
+Allow: /
+
+# Block only low-value, duplicate, or parameter-heavy paths
+# that would waste crawl budget (Guideline 21).
+Disallow: /search
+Disallow: /search/
+Disallow: /?s=
+Disallow: /?q=
+Disallow: /cdn-cgi/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /tmp/
+Disallow: /drafts/
+
+# ── Bingbot – explicit full access ───────────────────
+User-agent: Bingbot
+Allow: /
+
+# ── Crawl-rate hint (optional, advisory only) ─────────
+# Crawl-delay: 1
+
+# ── Sitemap location ─────────────────────────────────
+# Referenced here so Bing discovers it during crawl (Guideline 3).
+Sitemap: https://www.techthipshub.example.com/sitemap.xml

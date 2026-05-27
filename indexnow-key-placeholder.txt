@@ -1,0 +1,30 @@
+<!--
+  IndexNow verification key file – TechTips Hub
+  ═══════════════════════════════════════════════════════
+  Bing Guideline 4: Use IndexNow to notify Bing when URLs are added,
+  updated, or removed. This file verifies site ownership before
+  IndexNow submissions are accepted.
+
+  SETUP STEPS:
+  1. Go to https://www.bing.com/indexnow to generate your unique key.
+  2. Replace the placeholder key below (and in the filename) with your
+     actual key from Bing Webmaster Tools.
+  3. Host the file at:
+       https://www.yourdomain.com/<your-key>.txt
+  4. Submit URLs via the IndexNow API endpoint:
+       POST https://api.indexnow.org/indexnow
+       Content-Type: application/json; charset=utf-8
+       Body:
+       {
+         "host": "www.techthipshub.example.com",
+         "key": "<your-key>",
+         "keyLocation": "https://www.techthipshub.example.com/<your-key>.txt",
+         "urlList": [
+           "https://www.techthipshub.example.com/guides/new-guide.html"
+         ]
+       }
+
+  RENAME THIS FILE to match your actual key, e.g.:
+    a1b2c3d4e5f6a1b2c3d4e5f6a1b2c3d4.txt
+-->
+REPLACE-WITH-YOUR-INDEXNOW-KEY-FROM-BING-WEBMASTER-TOOLS
