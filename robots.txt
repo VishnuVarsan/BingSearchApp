@@ -1,5 +1,5 @@
 # robots.txt – TechTips Hub
-# https://www.techthipshub.example.com/robots.txt
+# https://vishnuvarsan.github.io/BingSearchApp/robots.txt
 #
 # Bing Guideline 8  : Allow efficient crawling – Bingbot is explicitly allowed.
 # Bing Guideline 10 : robots.txt controls crawl access, not indexing.
@@ -31,4 +31,4 @@ Allow: /
 
 # ── Sitemap location ─────────────────────────────────
 # Referenced here so Bing discovers it during crawl (Guideline 3).
-Sitemap: https://www.techthipshub.example.com/sitemap.xml
+Sitemap: https://vishnuvarsan.github.io/BingSearchApp/sitemap.xml

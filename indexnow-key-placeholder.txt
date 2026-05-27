@@ -16,11 +16,11 @@
        Content-Type: application/json; charset=utf-8
        Body:
        {
-         "host": "www.techthipshub.example.com",
+         "host": "vishnuvarsan.github.io",
          "key": "<your-key>",
-         "keyLocation": "https://www.techthipshub.example.com/<your-key>.txt",
+         "keyLocation": "https://vishnuvarsan.github.io/BingSearchApp/<your-key>.txt",
          "urlList": [
-           "https://www.techthipshub.example.com/guides/new-guide.html"
+           "https://vishnuvarsan.github.io/BingSearchApp/guides/new-guide.html"
          ]
        }
 
