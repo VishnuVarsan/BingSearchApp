@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="productivityIcon">
+  <title id="productivityIcon">Productivity topic icon</title>
+  <rect x="24" y="24" width="72" height="72" rx="14" fill="#0077cc" />
+  <path d="M40 60 L54 74 L82 46" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" />
+</svg>

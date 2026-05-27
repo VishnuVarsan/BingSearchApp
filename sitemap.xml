@@ -103,7 +103,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://www.techthipshub.example.com/images/guide-windows-speed.jpg</image:loc>
+      <image:loc>https://www.techthipshub.example.com/images/guide-windows-speed.svg</image:loc>
       <image:title>Windows 11 performance settings screen</image:title>
       <image:caption>Screenshot of Windows 11 settings showing performance optimisation options</image:caption>
     </image:image>
@@ -115,7 +115,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://www.techthipshub.example.com/images/guide-network-security.jpg</image:loc>
+      <image:loc>https://www.techthipshub.example.com/images/guide-network-security.svg</image:loc>
       <image:title>Home Wi-Fi router with security padlock overlay</image:title>
       <image:caption>A home router secured with WPA3 and a strong password</image:caption>
     </image:image>
@@ -127,7 +127,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
     <image:image>
-      <image:loc>https://www.techthipshub.example.com/images/guide-productivity.jpg</image:loc>
+      <image:loc>https://www.techthipshub.example.com/images/guide-productivity.svg</image:loc>
       <image:title>Collage of productivity application screenshots</image:title>
       <image:caption>Popular productivity apps reviewed for 2025</image:caption>
     </image:image>

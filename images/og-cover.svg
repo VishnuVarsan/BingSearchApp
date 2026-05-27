@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" role="img" aria-labelledby="ogTitle">
+  <title id="ogTitle">TechTips Hub Open Graph Cover</title>
+  <rect width="1200" height="630" fill="#0f2c5e" />
+  <rect x="60" y="60" width="1080" height="510" rx="32" fill="#1a4fa3" opacity="0.95" />
+  <text x="50%" y="45%" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" text-anchor="middle">TechTips Hub</text>
+  <text x="50%" y="58%" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="32" text-anchor="middle">Practical technology guides for everyday users</text>
+</svg>

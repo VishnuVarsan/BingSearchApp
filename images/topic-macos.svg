@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="macosIcon">
+  <title id="macosIcon">macOS topic icon</title>
+  <circle cx="60" cy="60" r="46" fill="#111111" />
+  <path d="M50 35 C40 50, 40 80, 60 85 C70 88, 88 80, 84 63 C72 62, 68 46, 50 35 Z" fill="#ffffff" />
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-labelledby="windowsGuideImage">
+  <title id="windowsGuideImage">Windows performance guide image</title>
+  <rect width="1200" height="750" fill="#0f2c5e" />
+  <rect x="120" y="130" width="960" height="490" rx="40" fill="#1a4fa3" />
+  <text x="600" y="380" fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-size="72" text-anchor="middle">Windows 11 Performance</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="securityIcon">
+  <title id="securityIcon">Security topic icon</title>
+  <path d="M60 12 L90 30 V60 C90 85 69 102 60 108 C51 102 30 85 30 60 V30 Z" fill="#0077cc" />
+  <circle cx="60" cy="58" r="14" fill="#ffffff" />
+</svg>
